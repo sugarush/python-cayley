@@ -1,0 +1,2 @@
+-e git+https://github.com/sugarush/pyley.git@411e4eaf6ed3e91175e2c6b22833693fbcf6a370#egg=pyley
+requests==2.12.4
