@@ -8,7 +8,7 @@ setup(
     author='Paul Severance',
     author_email='paulseverance@gmail.com',
     url='https://github.com/sugarush/python-cayley',
-    packages=['python-cayley'],
+    packages=['cayley'],
     description='A synchronous Cayley client.',
     install_requires=[
         'requests',
